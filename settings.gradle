@@ -1,0 +1,2 @@
+rootProject.name = "Andropid_lesson_1"
+include ':app'
