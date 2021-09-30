@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Andropid_lesson_1</string>
+    <string name="test_text">Test Text!</string>
+    <string name="name">name</string>
+    <string name="dude">Dude</string>
+    <string name="button">Button</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="switch1">Switch</string>
+
+    <string name="text">text</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="emailAddress">emailAddress</string>
+    <string name="password">password</string>
+
 </resources>
